@@ -1,0 +1,7 @@
+www.ejemplo.com 192.168.1.1
+mail.ejemplo.com 192.168.1.2
+ftp.ejemplo.com 192.168.1.3
+servidor.ejemplo.com 192.168.1.4 
+archivo.ejemplo.com 192.168.1.5 
+www.ventaSalchipapas.com 192.168.1.6
+www.ventaPerros.com  192.168.1.7
